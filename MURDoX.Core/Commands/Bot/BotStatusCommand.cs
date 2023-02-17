@@ -14,7 +14,7 @@ namespace MURDoX.Core.Commands.Bot
         [Description("get the bot status")]
         public async Task BotStatus(CommandContext ctx)
         {
-
+            //this is async test command
         }
     }
 }
